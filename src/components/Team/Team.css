@@ -1,0 +1,28 @@
+.team{
+    width: 100%;
+    
+    text-align: center;
+    padding: 32px;
+    box-sizing: border-box;
+}
+
+.team h3{
+    color: #212121;
+    text-align: center;
+    font-family: Prata;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    border-bottom: 5px solid;
+    display: inline;
+    padding: 5px;
+}
+
+.team div{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 32px;
+    flex-wrap: wrap;
+}
